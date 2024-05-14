@@ -1,0 +1,38 @@
+.container {
+    height: 610.51px;
+    width: 998.4px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 14px 18px 14px 18px;
+    margin-bottom: 22px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.logo {
+    height: 40px;
+    /* width: 962.400px; */
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.logo-img {
+    /* background-image: url("amazon_logo.png");
+    background-size: cover ; */
+    height: 31px;
+    width: 103px;
+}
+.img {
+    height: 40px;
+    width: 103px;
+}
+.main {
+    height: 436.400px;
+    width: 700px;
+}
